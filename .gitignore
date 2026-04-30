@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+*.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+/tmp/
+
+# Local overrides
+.claude.local.md
+settings.local.json
